@@ -10,6 +10,5 @@ public class hello {
 		boolean isAnimal = cat instanceof Animal;
 		System.out.println("Tom is Animal " +isAnimal);
 		
-		
 	}
 }
