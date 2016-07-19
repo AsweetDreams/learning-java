@@ -9,6 +9,7 @@ public class PolymorphismDemo {
 	       System.out.println("Animal Name of cat1: " + cat1.getstringName());
 	 
 	       System.out.println("Animal Name of cat2: " + cat2.getstringName());
-	 
+	       
+	       System.out.println("Hello");
 	   }
 }
