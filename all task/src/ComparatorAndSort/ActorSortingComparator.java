@@ -11,7 +11,7 @@ package ComparatorAndSort;
  */
 public class ActorSortingComparator {
     public static void main(String[] args) {
-         Actor actor1 = new Actor("Mischa", "Barton");
+      Actor actor1 = new Actor("Mischa", "Barton");
       Actor actor2 = new Actor("Christian", "Bale");
       Actor actor3 = new Actor("Joan", "Collins");
       Actor actor4 = new Actor("Gemma", "Arterton");
